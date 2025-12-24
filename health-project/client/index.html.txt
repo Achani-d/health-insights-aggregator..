@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health Insights Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🌍 Global Health Dashboard</h1>
+    <div id="data">Loading data...</div>
+    <script src="script.js"></script>
+</body>
+</html>
